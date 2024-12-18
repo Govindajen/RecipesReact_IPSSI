@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Beef Stir Fry",
+    "ingredients": [
+      "500g beef strips",
+      "1 red bell pepper, sliced",
+      "1 onion, sliced",
+      "2 cloves garlic, minced",
+      "2 tbsp soy sauce",
+      "1 tbsp oyster sauce",
+      "1 tbsp sesame oil",
+      "1 tsp ginger, minced",
+      "1 tbsp cornstarch"
+    ],
+    "instructions": "1. Mix beef with cornstarch. 2. Heat sesame oil in a pan, stir-fry garlic and ginger. 3. Add beef and cook until browned. 4. Add vegetables and sauces, stir-fry for 5 minutes. 5. Serve with rice.",
+    "cuisineType": "Asian",
+    "author": "507f1f77bcf86cd799439014"
+  },
+  {
+    "title": "Vegetable Curry",
+    "ingredients": [
+      "2 potatoes, diced",
+      "1 carrot, sliced",
+      "1 onion, chopped",
+      "200g spinach",
+      "1 can coconut milk",
+      "2 tbsp curry powder",
+      "1 tbsp ginger, minced",
+      "1 tsp turmeric",
+      "1 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "instructions": "1. Heat oil in a pot, sauté onions and ginger. 2. Add potatoes and carrots, cook for 5 minutes. 3. Stir in curry powder, turmeric, and coconut milk. 4. Simmer for 20 minutes, then add spinach and cook until wilted. 5. Season with salt and pepper, serve with rice.",
+    "cuisineType": "Indian",
+    "author": "507f1f77bcf86cd799439015"
+  },
+  {
+    "title": "Margherita Pizza",
+    "ingredients": [
+      "1 pizza dough",
+      "200g tomato sauce",
+      "200g mozzarella cheese",
+      "Fresh basil leaves",
+      "Olive oil",
+      "Salt to taste"
+    ],
+    "instructions": "1. Preheat oven to 220°C. 2. Roll out pizza dough and spread tomato sauce. 3. Top with mozzarella and bake for 10-12 minutes. 4. Garnish with fresh basil and drizzle with olive oil before serving.",
+    "cuisineType": "Italian",
+    "author": "507f1f77bcf86cd799439016"
+  },
+  {
+    "title": "Caesar Salad",
+    "ingredients": [
+      "200g romaine lettuce",
+      "100g croutons",
+      "50g Parmesan cheese",
+      "2 tbsp Caesar dressing",
+      "1 boiled egg, sliced",
+      "Black pepper to taste"
+    ],
+    "instructions": "1. Toss lettuce with Caesar dressing. 2. Add croutons, Parmesan, and boiled egg slices. 3. Season with black pepper and serve.",
+    "cuisineType": "American",
+    "author": "507f1f77bcf86cd799439017"
+  },
+  {
+    "title": "Tacos",
+    "ingredients": [
+      "12 taco shells",
+      "500g ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 packet taco seasoning",
+      "Lettuce, shredded",
+      "Tomatoes, diced",
+      "Cheddar cheese, shredded",
+      "Sour cream"
+    ],
+    "instructions": "1. Cook beef with onion and garlic until browned. 2. Add taco seasoning and water, simmer for 5 minutes. 3. Fill taco shells with beef mixture and top with lettuce, tomatoes, cheese, and sour cream.",
+    "cuisineType": "Mexican",
+    "author": "507f1f77bcf86cd799439018"
+  },
+  {
+    "title": "Fettuccine Alfredo",
+    "ingredients": [
+      "200g fettuccine",
+      "100g butter",
+      "200ml heavy cream",
+      "100g Parmesan cheese",
+      "Salt and black pepper",
+      "Fresh parsley for garnish"
+    ],
+    "instructions": "1. Cook fettuccine in salted water. 2. Melt butter in a pan, add cream and simmer for 5 minutes. 3. Stir in Parmesan, then toss with pasta. 4. Season with salt and pepper, garnish with parsley.",
+    "cuisineType": "Italian",
+    "author": "507f1f77bcf86cd799439019"
+  },
+  {
+    "title": "Eggplant Parmesan",
+    "ingredients": [
+      "2 eggplants, sliced",
+      "200g tomato sauce",
+      "100g mozzarella cheese",
+      "100g Parmesan cheese",
+      "2 eggs, beaten",
+      "Breadcrumbs",
+      "Olive oil for frying",
+      "Basil leaves for garnish"
+    ],
+    "instructions": "1. Dip eggplant slices in beaten eggs, then coat with breadcrumbs. 2. Fry in olive oil until golden. 3. Layer eggplant, tomato sauce, and cheese in a baking dish. 4. Bake at 180°C for 20 minutes, garnish with basil.",
+    "cuisineType": "Italian",
+    "author": "507f1f77bcf86cd799439020"
+  },
+  {
+    "title": "Chicken Burrito",
+    "ingredients": [
+      "500g chicken breast, grilled and sliced",
+      "4 large tortillas",
+      "1 cup cooked rice",
+      "1/2 cup black beans",
+      "1/2 cup salsa",
+      "1/2 cup guacamole",
+      "Cheddar cheese, shredded",
+      "Lettuce"
+    ],
+    "instructions": "1. Warm tortillas and fill with rice, beans, chicken, salsa, guacamole, cheese, and lettuce. 2. Roll up and serve.",
+    "cuisineType": "Mexican",
+    "author": "507f1f77bcf86cd799439021"
+  },
+  {
+    "title": "Vegetarian Lasagna",
+    "ingredients": [
+      "1 package lasagna noodles",
+      "1 zucchini, sliced",
+      "1 eggplant, sliced",
+      "200g spinach",
+      "500g ricotta cheese",
+      "200g mozzarella cheese",
+      "200g tomato sauce",
+      "Garlic, minced",
+      "Olive oil for cooking"
+    ],
+    "instructions": "1. Cook lasagna noodles. 2. Sauté zucchini, eggplant, and garlic in olive oil. 3. Layer noodles, veggies, ricotta, mozzarella, and sauce in a baking dish. 4. Bake at 180°C for 30 minutes.",
+    "cuisineType": "Italian",
+    "author": "507f1f77bcf86cd799439022"
+  },
+  {
+    "title": "Grilled Cheese Sandwich",
+    "ingredients": [
+      "2 slices of bread",
+      "2 slices cheddar cheese",
+      "Butter"
+    ],
+    "instructions": "1. Butter both slices of bread. 2. Place cheese between the bread and grill on both sides until golden brown.",
+    "cuisineType": "American",
+    "author": "507f1f77bcf86cd799439023"
+  }
+]
